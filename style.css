@@ -1,0 +1,26 @@
+.imagemperfil{
+  border-radius: 200px;
+  max-width:140px;
+  border:1px solid black;
+  margin-left:40px;
+}
+.primeira{
+  display: flex;
+  align-items: center;
+  vertical-align: text-bottom;
+}
+#divterceira{
+  background-color: #EEEADE;
+}
+#divprimeira{
+  background-color: #48D1CC ;
+}
+#divsegunda{
+background-color: white;
+}
+h2{
+  margin-left: 60px;
+}
+h5{
+  margin-left: 60px;
+}
